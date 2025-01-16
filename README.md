@@ -12,7 +12,7 @@ This repository demonstrates how to use OpenAI's API to manage multiple chat thr
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/openaiAPI-Context-Chat.git
+   gh repo clone IvanDvoretskiy/openaiAPI-Context-Chat
    cd openaiAPI-Context-Chat
    ```
 
